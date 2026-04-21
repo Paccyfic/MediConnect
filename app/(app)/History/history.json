@@ -1,0 +1,254 @@
+{
+    "categories":[
+        {
+           "name":"Messaging",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor5.png",
+                        "name":"Dr. Bernard Bliss",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ] 
+        },
+        {
+            "name":"Voice Call",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor5.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ]
+        },
+        {
+            "name":"Video Call",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                      "imageSource":"doctor5.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"rightArrow",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "timeFrame":"ToDay",
+                        "time":"10:00 PM",
+                        "Message":"My pleasure all the best Sir!",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ]
+        }
+        
+    ]
+}

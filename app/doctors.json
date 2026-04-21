@@ -1,0 +1,264 @@
+{
+    "categories":[
+        {
+           "name":"All",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"B&B Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Venus Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor5.png",
+                        "name":"Dr. Bernard Bliss",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"The Valley Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ] 
+        },
+        {
+            "name":"General",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"B&B Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Venus Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor5.png",
+                        "name":"Dr. Bernard Bliss",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"The Valley Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ]
+        },
+        {
+            "name":"Dentist",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"B&B Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"Venus Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor5.png",
+                        "name":"Dr. Bernard Bliss",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"The Valley Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Dentist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ]
+        },{
+            "name":"Nutritionits",
+            "Doctors":[
+                {
+                       "imageSource":"doctor1.png",
+                        "name":"dentist Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                {
+                       "imageSource":"doctor2.png",
+                        "name":"Dr. Nathaniel Valle",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"B&B Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor3.png",
+                        "name":"Dr. Beckett Calger",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Venus Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor4.png",
+                        "name":"Dr. Jada Srnsky",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor5.png",
+                        "name":"Dr. Bernard Bliss",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"The Valley Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                },
+                 {
+                       "imageSource":"doctor1.png",
+                        "name":"Dr. Travis Westaby",
+                        "iconComponent":"heart",
+                        "professionalTitle":"Cardiologist",
+                        "hospital":"Alka Hospital",
+                        "star":"star",
+                        "review":"(4,5050 Reviews)",
+                        "rate":"4.5"
+                }
+            ]
+        }
+        
+    ]
+}

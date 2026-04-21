@@ -1,0 +1,31 @@
+{
+  "_bodyBlob": {
+    "_data": {
+      "__collector": "[Object]",
+      "blobId": "36d87d31-5aa2-4275-bca1-dd42a01c669e",
+      "lastModified": 0,
+      "name": "7a117393-b05a-4841-abbb-6b0ae2cd5194.jpeg",
+      "offset": 0,
+      "size": 223253,
+      "type": "image/jpeg"
+    }
+  },
+  "_bodyInit": {
+    "_data": {
+      "__collector": "[Object]",
+      "blobId": "36d87d31-5aa2-4275-bca1-dd42a01c669e",
+      "lastModified": 0,
+      "name": "7a117393-b05a-4841-abbb-6b0ae2cd5194.jpeg",
+      "offset": 0,
+      "size": 223253,
+      "type": "image/jpeg"
+    }
+  },
+  "bodyUsed": true,
+  "headers": { "map": { "content-type": "image/jpeg" } },
+  "ok": true,
+  "status": 200,
+  "statusText": "",
+  "type": "default",
+  "url": ""
+}

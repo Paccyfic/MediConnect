@@ -1,0 +1,103 @@
+{
+  "expo": {
+    "name": "matadors-rn-medica",
+    "slug": "medica-158",
+    "scheme": "com.medica",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff",
+      "textAlign": "center"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "jsEngine": "hermes",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "This app uses Face ID and Touch ID for some features"
+      },
+      "bundleIdentifier": "com.andela.matadors.medica"
+    },
+    "android": {
+      "jsEngine": "hermes",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "permissions": [
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.medica.oauthdeeplink"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-local-authentication",
+        {
+          "faceIDPermission": "Allow $(PRODUCT_NAME) to use Face ID."
+        }
+      ],
+      "expo-font",
+      "expo-secure-store",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ], [
+        "expo-av",
+        {
+          "microphonePermission": "$(PRODUCT_NAME) would like to use your microphone for voice recording."
+        }
+      ],
+      "@videosdk.live/expo-config-plugin",
+      [
+        "@config-plugins/react-native-webrtc",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e682bd39-ab6e-4861-9be2-39cbe02bb93e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3a17d659-91e3-4105-837b-5f88bdee8d37"
+    },
+    "owner": "actrox"
+  }
+}
