@@ -23,7 +23,7 @@ Medica is a mobile application designed to facilitate online doctor appointments
 ### Getting Started
 
 1. Clone the repository: 
-git clone https://github.com/atlp-rwanda/matadors-rn-medica.git
+git clone https://github.com/Paccyfic/MediConnect.git
 
 2. Navigate to the project directory:
 
