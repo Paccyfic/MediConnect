@@ -56,14 +56,7 @@ export const Colors = {
     "_50": "#FAFAFA",
   },
 
-  // will require to set this up here as soon as one needs gradients
-  // gradients: {
-  //   gradient_blue: { from: { x: 0, y: 0 }, to: { x: 1, y: 1 }, color: [""] },
-  //   gradient_yellow: { from: { x: 0, y: 0 }, to: { x: 1, y: 1 }, color: [""] },
-  //   gradient_green: { from: { x: 0, y: 0 }, to: { x: 1, y: 1 }, color: [""] },
-  //   gradient_orange: { from: { x: 0, y: 0 }, to: { x: 1, y: 1 }, color: [""] },
-  //   gradient_red: { from: { x: 0, y: 0 }, to: { x: 1, y: 1 }, color: [""] },
-  // },
+  
 
   dark: {
     "_1": "#181A20",

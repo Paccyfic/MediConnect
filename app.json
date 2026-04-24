@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "matadors-rn-medica",
-    "slug": "medica-158",
+    "name": "Mediconnect",
+    "slug": "mediconnect",
     "scheme": "com.medica",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,8 @@
       "infoPlist": {
         "NSFaceIDUsageDescription": "This app uses Face ID and Touch ID for some features"
       },
-      "bundleIdentifier": "com.andela.matadors.medica"
+      "bundleIdentifier": "com.andela.matadors.medica",
+      "bitcode": false
     },
     "android": {
       "jsEngine": "hermes",
@@ -34,7 +35,15 @@
         "android.permission.USE_BIOMETRIC",
         "android.permission.USE_FINGERPRINT",
         "android.permission.CAMERA",
-        "android.permission.RECORD_AUDIO"
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.BLUETOOTH"
       ],
       "package": "com.medica.oauthdeeplink"
     },
@@ -66,7 +75,8 @@
         {
           "photosPermission": "The app accesses your photos to let you share them with your friends."
         }
-      ], [
+      ],
+      [
         "expo-av",
         {
           "microphonePermission": "$(PRODUCT_NAME) would like to use your microphone for voice recording."
@@ -89,7 +99,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "e682bd39-ab6e-4861-9be2-39cbe02bb93e"
+        "projectId": "82ca105e-b4fe-4309-9fbd-f8a6a6cd8641"
       }
     },
     "runtimeVersion": {
@@ -98,6 +108,6 @@
     "updates": {
       "url": "https://u.expo.dev/3a17d659-91e3-4105-837b-5f88bdee8d37"
     },
-    "owner": "actrox"
+    "owner": "paccyfic"
   }
 }

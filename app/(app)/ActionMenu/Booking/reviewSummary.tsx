@@ -109,7 +109,7 @@ export default function Reviewsummary() {
         >
           <Pressable
             onPress={() =>
-              router.push("(app)/ActionMenu/Booking/SelectPayment")
+              router.back()
             }
             style={{
               height: "100%",
@@ -453,9 +453,11 @@ export default function Reviewsummary() {
         <View style={{ paddingHorizontal: 20, marginTop: "auto" }}>
           <Button
             title="Next"
-            onPress={() =>
+            onPress={() => {
+              console.log("Next pressed");
+              alert("Navigating to SelectPayment...");
               router.push({
-                pathname: "(app)/ActionMenu/Booking/SelectPayment",
+                pathname: "/(app)/ActionMenu/Booking/SelectPayment",
                 params: {
                   doctor_id: doctor_id,
                   hour: hour,
@@ -467,8 +469,9 @@ export default function Reviewsummary() {
                   patient_id: patient_id,
                   duration: duration,
                 },
-              })
-            }
+              });
+            }}
+            
             style={{}}
           />
         </View>
